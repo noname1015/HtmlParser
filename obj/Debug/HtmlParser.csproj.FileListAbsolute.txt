@@ -1,0 +1,9 @@
+C:\LEH\HtmlParser\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe.config
+C:\LEH\HtmlParser\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe
+C:\LEH\HtmlParser\HtmlParser\HtmlParser\bin\Debug\HtmlParser.pdb
+C:\LEH\HtmlParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csprojResolveAssemblyReference.cache
+C:\LEH\HtmlParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.Properties.Resources.resources
+C:\LEH\HtmlParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.GenerateResource.Cache
+C:\LEH\HtmlParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.exe
+C:\LEH\HtmlParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.pdb
+C:\LEH\HtmlParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.Form1.resources
